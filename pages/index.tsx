@@ -17,6 +17,9 @@ export default function Home() {
           <h1>Experience</h1>
           <h1>Work</h1>
           <h1>Contact</h1>
+          <footer>
+              <div>Designed & Built by Hans Piña, @hansfpc.</div>
+          </footer>
       </div>
     </div>
   )
